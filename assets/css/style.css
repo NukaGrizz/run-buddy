@@ -379,6 +379,10 @@ section {
     justify-content: center;
   }
 
+  header nav ul li a {
+    font-size: 20px;
+  }
+
   .hero-cta, .hero-form {
     width: 100%;
   }
@@ -393,7 +397,7 @@ section {
   }
 
   .section-title {
-    width: 100%;
+    width: 80%;
   }
 
   .trainer {
